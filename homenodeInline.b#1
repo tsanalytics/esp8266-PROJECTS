@@ -262,7 +262,6 @@ AC-&gt;5V MODULE</text>
 <text x="13.8" y="9.4" size="1.016" layer="255" font="vector" ratio="15">POWER IN</text>
 <text x="27" y="9.4" size="1.016" layer="255" font="vector" ratio="15">LOAD OUT</text>
 <text x="35.4" y="9.4" size="1.016" layer="255" font="vector" ratio="15">2A MAX</text>
-<hole x="38" y="41" drill="3.2"/>
 </plain>
 <libraries>
 <library name="ESP8266-ESP12">
